@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507262254 source:/home/walter/comp369/theodorekr_3133943_COMP369_Assignment_2_assignment2/assignment2/part2/SnakeGame/main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<cstdlib>
+
